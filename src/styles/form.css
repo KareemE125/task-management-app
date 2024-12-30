@@ -1,0 +1,54 @@
+form{
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  align-items: stretch;
+  gap: 16px;
+}
+
+.form-layout-col form{
+  flex-direction: column;
+}
+
+.form-layout-row form{
+  flex-direction: column;
+  
+  @media screen and (min-width: 768px){
+    flex-direction: row;
+  }
+}
+
+form div{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}
+
+form div label{
+  font-size: 16px;
+  font-weight: 600;
+}
+
+form div input, form div textarea{
+  width: 100%;
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: black;
+  font-weight: 600;
+  outline: none;
+}
+
+form div p{
+  font-size: 14px;
+  font-weight: 600;
+  color: red;
+  padding-top: 4px;
+  padding-left: 4px;
+}
+
+form button {
+  align-self: end;
+}

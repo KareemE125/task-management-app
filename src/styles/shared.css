@@ -1,0 +1,17 @@
+.beat-animation {
+  animation: beating 300ms ease-in-out;
+}
+
+@keyframes beating {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+

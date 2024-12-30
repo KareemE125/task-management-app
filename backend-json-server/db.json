@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Implement a REST API",
+      "description": "Implement a REST API for a simple task list application.",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Implement a Web Client",
+      "description": "Implement a web client for the REST API.",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Implement a Mobile Client",
+      "description": "Implement a mobile client for the REST API.",
+      "status": false
+    },
+    {
+      "id": 4,
+      "title": "Implement a Desktop Client",
+      "description": "Implement a desktop client for the REST API.",
+      "status": false
+    },
+    {
+      "id": 5,
+      "title": "Implement a CLI Client",
+      "description": "Implement a command line client for the REST API.",
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "Implement a Task List",
+      "description": "Implement a task list application using the REST API.",
+      "status": true
+    }
+  ]
+}

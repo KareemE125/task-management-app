@@ -1,0 +1,1 @@
+export const createArrayOfSize = (size: number) => Array.from(Array(size).keys())
