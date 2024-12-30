@@ -1,7 +1,7 @@
 # Task Manager
 Task Manager App by ReactJS, Typescript, Redux Toolkit and tailwindCSS
 
-### Visit Here 👉 
+### Visit Here 👉 https://task-management-app-nine-phi.vercel.app/
 **Note:** you should run the backend server (mentioned in **_Run The Project_** section)
 
 ### Dev Features:
