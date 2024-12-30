@@ -28,10 +28,7 @@ Task Manager App by ReactJS, Typescript, Redux Toolkit and tailwindCSS
 3. You will find a link for the running server appears in the console, it is: `http://localhost:3001/`
 
 ## Screenshots
-![screencapture-localhost-5173-2024-06-14-19_44_56](https://github.com/KareemE125/task-manager/assets/61433385/538fcb38-1982-420a-ba61-adb2fb45ce88)
 ![screencapture-localhost-3000-tasks-2024-12-30-16_51_47](https://github.com/user-attachments/assets/f162eb38-4b40-4622-b33b-92b210bac686)
-![screencapture-localhost-5173-about-us-2024-06-14-19_45_17](https://github.com/KareemE125/task-manager/assets/61433385/301078de-a90a-4282-97f3-99d3b515bd7f)
-![screencapture-localhost-5173-contact-2024-06-14-19_45_22](https://github.com/KareemE125/task-manager/assets/61433385/797eb157-580f-4b5f-a728-685f53187c3f)
 
 
 ============================================================================================
