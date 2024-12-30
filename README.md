@@ -1,7 +1,7 @@
 # Task Manager
 Task Manager App by ReactJS, Typescript, Redux Toolkit and tailwindCSS
 
-### Visit Here 👉 https://task-manager-kareem-ezzats-projects.vercel.app/
+### Visit Here 👉 
 **Note:** you should run the backend server (mentioned in **_Run The Project_** section)
 
 ### Dev Features:
@@ -20,7 +20,7 @@ Task Manager App by ReactJS, Typescript, Redux Toolkit and tailwindCSS
 ### Run Frontend Website
 1. Run `npm i` to install all the project dependencies
 2. Run `npm run dev` to run the project
-3. You will find a link for the running website appears in the console, often it is: `http://localhost:5173/`
+3. You will find a link for the running website appears in the console, often it is: `http://localhost:5173/` or `http://localhost:3000/`
 
 ### Run Backend Server to Serve JSON Database
 1. Open the Folder called `backend-json-server` OR use `cd` command to go to the directory
@@ -29,7 +29,7 @@ Task Manager App by ReactJS, Typescript, Redux Toolkit and tailwindCSS
 
 ## Screenshots
 ![screencapture-localhost-5173-2024-06-14-19_44_56](https://github.com/KareemE125/task-manager/assets/61433385/538fcb38-1982-420a-ba61-adb2fb45ce88)
-![screencapture-localhost-5173-tasks-2024-06-14-19_45_07](https://github.com/KareemE125/task-manager/assets/61433385/cbc63da2-a947-41a3-97b5-871a41d77fae)
+![screencapture-localhost-3000-tasks-2024-12-30-16_51_47](https://github.com/user-attachments/assets/f162eb38-4b40-4622-b33b-92b210bac686)
 ![screencapture-localhost-5173-about-us-2024-06-14-19_45_17](https://github.com/KareemE125/task-manager/assets/61433385/301078de-a90a-4282-97f3-99d3b515bd7f)
 ![screencapture-localhost-5173-contact-2024-06-14-19_45_22](https://github.com/KareemE125/task-manager/assets/61433385/797eb157-580f-4b5f-a728-685f53187c3f)
 
